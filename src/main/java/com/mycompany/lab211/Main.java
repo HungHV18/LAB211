@@ -4,7 +4,7 @@ interface mainInterface {
 	public static ArrayList<Student> allStudent = new ArrayList<>();
 	public static Scanner sc = new Scanner(System.in);
 }
-
+	// Test
 class Main implements mainInterface {
 	public static void main(String[] args) {
 		boolean exitProgram = false;
